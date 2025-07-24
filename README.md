@@ -1,6 +1,6 @@
-# Trivia Quiz Game with AI Feedback
+# Quiz Game with AI Feedback
 
-A scalable trivia game built with Jac that provides intelligent feedback for incorrect answers using Gemini AI.
+A scalable quiz game built with Jac that provides intelligent feedback for incorrect answers using Gemini AI.
 
 ## Features
 
